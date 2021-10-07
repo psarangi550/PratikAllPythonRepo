@@ -1,0 +1,20 @@
+29:07:2021 07:16:32 AM:INFO:root:A request just came in
+29:07:2021 07:16:37 AM:ERROR:root:Can't devide by Zero
+Traceback (most recent call last):
+  File "C:/Users/611903295/Downloads/python/Django_Python_Revesion/Python_Logging_Example/puttting the exception info to the Application.py", line 19, in <module>
+    result=x/y
+ZeroDivisionError: division by zero
+29:07:2021 07:16:37 AM:INFO:root:Request Completed
+29:07:2021 07:17:17 AM:INFO:root:A request just came in
+29:07:2021 07:17:22 AM:INFO:root:The Answer of the division is 5.0
+29:07:2021 07:17:22 AM:INFO:root:Request Completed
+29:07:2021 07:17:58 AM:INFO:root:A request just came in
+29:07:2021 07:18:03 AM:INFO:root:The Answer of the division is 5.0
+29:07:2021 07:18:03 AM:INFO:root:Request Completed
+29:07:2021 07:18:08 AM:INFO:root:A request just came in
+29:07:2021 07:18:10 AM:ERROR:root:Please Provide into value only
+Traceback (most recent call last):
+  File "C:/Users/611903295/Downloads/python/Django_Python_Revesion/Python_Logging_Example/puttting the exception info to the Application.py", line 17, in <module>
+    x=int(input("Enter the first Number"))
+ValueError: invalid literal for int() with base 10: 'ten'
+29:07:2021 07:18:10 AM:INFO:root:Request Completed

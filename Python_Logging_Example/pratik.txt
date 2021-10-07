@@ -1,0 +1,5 @@
+CRITICAL:root:This is critical message of Test module
+ERROR:root:This is critical message of Test module
+WARNING:root:This is critical message of Test module
+INFO:root:This is critical message of Test module
+DEBUG:root:This is critical message of Test module

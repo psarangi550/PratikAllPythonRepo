@@ -1,0 +1,5 @@
+29:07:2021 07:00:40 AM:CRITICAL:root:This is a Critical Message
+29:07:2021 07:00:40 AM:ERROR:root:This is a error Message
+29:07:2021 07:00:40 AM:WARNING:root:This is a warning Message
+29:07:2021 07:00:40 AM:INFO:root:This is a info Message
+29:07:2021 07:00:40 AM:DEBUG:root:This is a debug Message

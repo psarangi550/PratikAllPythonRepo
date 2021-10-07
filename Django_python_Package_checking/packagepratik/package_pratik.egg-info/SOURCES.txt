@@ -1,0 +1,7 @@
+setup.py
+package_pratik/__init__.py
+package_pratik/addition_by_pratik.py
+package_pratik.egg-info/PKG-INFO
+package_pratik.egg-info/SOURCES.txt
+package_pratik.egg-info/dependency_links.txt
+package_pratik.egg-info/top_level.txt

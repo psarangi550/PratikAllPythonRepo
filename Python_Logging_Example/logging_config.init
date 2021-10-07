@@ -1,0 +1,21 @@
+[loggers]
+keys=root,demologger
+[handlers]
+keys=fileHandler
+[formatters]
+keys=sampleFormatter
+[logger_root]
+level=DEBUG
+handlers=fileHandler
+[logger_demologger]
+level=DEBUG
+handlers=fileHandler
+qualname=demoLogger
+[handler_fileHandler]
+class=FileHandler
+level=DEBUG
+formatter=sampleFormatter
+args=("Text.txt","w")
+[formatter_sampleFormatter]
+format="%(asctime)s:%(levelname)s"
+datefmt="%d:%m:%Y %I:%M:%S %p"

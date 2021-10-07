@@ -1,0 +1,2 @@
+Thursday:July:  29:07:2021 05:59:22 PM:CRITICAL:m1:This is a Critical Message
+Thursday:July:  29:07:2021 05:59:22 PM:ERROR:m1:This is a Error Message

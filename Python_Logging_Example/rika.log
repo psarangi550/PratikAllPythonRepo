@@ -1,0 +1,6 @@
+29:07:2021 13:20:54 PM:CRITICAL:RikaLogger:This is a Critical Message
+29:07:2021 13:20:54 PM:ERROR:RikaLogger:This is a error Message
+29:07:2021 13:20:54 PM:WARNING:RikaLogger:This is a warning Message
+29:07:2021 13:22:09 PM:CRITICAL:RikaLogger:This is a Critical Message
+29:07:2021 13:22:09 PM:ERROR:RikaLogger:This is a error Message
+29:07:2021 13:22:09 PM:WARNING:RikaLogger:This is a warning Message

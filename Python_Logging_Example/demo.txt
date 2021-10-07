@@ -1,0 +1,5 @@
+29:07:2021 16:04:56 PM:CRITICAL:demoLogger:This is a Critical Message
+29:07:2021 16:04:56 PM:ERROR:demoLogger:This is a Error Message
+29:07:2021 16:04:56 PM:WARNING:demoLogger:This is a warning Message
+29:07:2021 16:04:56 PM:INFO:demoLogger:This is a Info Message
+29:07:2021 16:04:56 PM:DEBUG:demoLogger:This is a Debug Message
